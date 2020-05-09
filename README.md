@@ -3,9 +3,9 @@
 Welcome the Cryptone
 
 
-Cryptone it is a program with many encryption algorithms
+Cryptone is a program with many encryption algorithms
 
-You can encryption-encode or decryption-decode with cryptone
+You can encryption-encode or decryption-decode
 
 
 -- Usage --
