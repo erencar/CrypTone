@@ -1,6 +1,6 @@
 # CrypTone
 
-Welcome the Cryptone
+******* Cryptone *******
 
 Cryptone is a program that contains many encryption algorithms. 
 
